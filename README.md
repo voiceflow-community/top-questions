@@ -179,3 +179,5 @@ The API returns appropriate HTTP status codes:
 - 404: Invalid project ID or report not found
 - 500: Internal server error
 
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_top-questions&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_top-questions)
